@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shiv/static/css/main.3b292d43.css",
+    "main.js": "/Shiv/static/js/main.86056a25.js",
+    "static/js/787.7b7e0037.chunk.js": "/Shiv/static/js/787.7b7e0037.chunk.js",
+    "index.html": "/Shiv/index.html",
+    "main.3b292d43.css.map": "/Shiv/static/css/main.3b292d43.css.map",
+    "main.86056a25.js.map": "/Shiv/static/js/main.86056a25.js.map",
+    "787.7b7e0037.chunk.js.map": "/Shiv/static/js/787.7b7e0037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b292d43.css",
+    "static/js/main.86056a25.js"
+  ]
+}
