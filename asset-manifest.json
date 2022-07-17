@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shiv/static/css/main.3b292d43.css",
-    "main.js": "/Shiv/static/js/main.3b09005b.js",
-    "static/js/787.7b7e0037.chunk.js": "/Shiv/static/js/787.7b7e0037.chunk.js",
-    "index.html": "/Shiv/index.html",
-    "main.3b292d43.css.map": "/Shiv/static/css/main.3b292d43.css.map",
-    "main.3b09005b.js.map": "/Shiv/static/js/main.3b09005b.js.map",
-    "787.7b7e0037.chunk.js.map": "/Shiv/static/js/787.7b7e0037.chunk.js.map"
+    "main.css": "/sorting_visualiser/static/css/main.3b292d43.css",
+    "main.js": "/sorting_visualiser/static/js/main.03605c7d.js",
+    "static/js/787.7b7e0037.chunk.js": "/sorting_visualiser/static/js/787.7b7e0037.chunk.js",
+    "index.html": "/sorting_visualiser/index.html",
+    "main.3b292d43.css.map": "/sorting_visualiser/static/css/main.3b292d43.css.map",
+    "main.03605c7d.js.map": "/sorting_visualiser/static/js/main.03605c7d.js.map",
+    "787.7b7e0037.chunk.js.map": "/sorting_visualiser/static/js/787.7b7e0037.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b292d43.css",
-    "static/js/main.3b09005b.js"
+    "static/js/main.03605c7d.js"
   ]
 }
